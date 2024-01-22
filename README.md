@@ -1,6 +1,6 @@
 ### Hi there 👋, Md Ripon
 #### Code Enthusiast & Software Engineer
-![Code Enthusiast & Software Engineer](https://cdn.buymeacoffee.com/uploads/cover_images/2023/12/FPcpxFgNMLgBqSz2Jb2KmM3qCqf1ZhYmY4YaIw73.png)
+![Code Enthusiast & Software Engineer](https://i.ibb.co/Tv8qTYV/FPcpx-Fg-NMLg-Bq-Sz2-Jb2-Km-M3q-Cqf1-Zh-Ym-Y4-Ya-Iw73.png)
 
 Hey there! 👋 I'm MD Ripon, a passionate software engineer working with PHP, Laravel, HTML, CSS, and Bootstrap. 🖥️ I thrive on turning lines of code into functional and elegant solutions.
 
